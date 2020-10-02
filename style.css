@@ -24,7 +24,7 @@ body {
 }
 #over {
 	margin: auto;
-	max-width: 480px;
+	max-width: 1000px;
 }
 
 @keyframes second { 
